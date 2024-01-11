@@ -1,1 +1,1 @@
-# IR-intolerance
+Code used to implement the model and carry out the analysis described in the article "Spreading of intolerance in a model of emergent social norms through indirect reciprocity" (Martinez-Vaquero et al, Phys. Rev. E 90, 022805 (2014)).
